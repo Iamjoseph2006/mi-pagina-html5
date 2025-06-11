@@ -33,7 +33,7 @@ p {
 img {
     max-width: 100%;
     height: auto;
-    border: 2px solid #ccc;
+    border: 2px ;
     border-radius: 5px;
 }
 
